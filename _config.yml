@@ -1,5 +1,7 @@
 # Base configs
-baseurl: "https://www.koltiq.site"
+# baseurl: "https://www.koltiq.site"
+baseurl: ""
+url: "https://www.koltiq.site"
 # baseurl: "" # Keep this commented out for live site
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
